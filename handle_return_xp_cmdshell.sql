@@ -1,7 +1,7 @@
 --
 --  Created by John Medeiros.
---  e-mail: john.sql@gmail.com
---  Copyright (c) 2014 JM. All rights reserved.
+--  e-mail: 
+--  Date: 2014
 --
 -- The code described below, shows how to handle errors returned by xp_cmdshell routine.
 -- SQL Server versions: 2005 and above.
